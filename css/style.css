@@ -114,6 +114,8 @@
     align-items: center;
     padding: 2.7em;
     margin-top: 2em;
+    width: 80vw;
+    margin: 0 auto;
     height: 85vh;
   }
   .header__text {
