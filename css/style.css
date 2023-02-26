@@ -6,10 +6,6 @@
   padding: 0;
 }
 
-html {
-  box-sizing: border-box;
-}
-
 .head {
   display: flex;
   flex-direction: column;
