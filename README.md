@@ -1,5 +1,7 @@
 # Frontend Mentor - Huddle landing page with single introductory section
-
+<p>I invite you to check my project by clicking on the link below</p>
+<br>
+<p>https://k4mlas.github.io/To-do-list/</p>
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
